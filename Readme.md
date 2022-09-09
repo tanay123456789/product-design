@@ -10,4 +10,4 @@
 ![image](https://img.shields.io/badge/Full%20stack%20JS%20bootcamp-Hitesh%20Chaudhary-lightgrey)
 
 
-![image](https://github.com/AvishkarVichare/project-1/blob/master/11.png)
+
